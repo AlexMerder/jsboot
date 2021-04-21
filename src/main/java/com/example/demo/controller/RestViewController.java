@@ -29,7 +29,4 @@ public class RestViewController {
         model.addAttribute("user",userService.getUserByUsername(auth.getName()));
         return "restUser";
     }
-
-
-
 }
