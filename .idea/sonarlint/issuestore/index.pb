@@ -9,8 +9,6 @@ c
 3src/main/java/com/example/demo/DemoApplication.java,7\1\7171df7c024808a26040ea210fc78aec82a83023
 k
 ;src/main/java/com/example/demo/service/UserServiceImpl.java,d\1\d171546978ecf412e632e3c0563e23edbaaa6d59
-U
-%target/classes/application.properties,b\b\bb173f9557479135e0f1bcd9c6c5f7b4ae5f77e8
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 8
@@ -25,3 +23,5 @@ r
 Bsrc/main/java/com/example/demo/controller/RestAdminController.java,7\c\7cadd2885328e8f580438e49a12d4ec5b422a219
 p
 @src/main/java/com/example/demo/security/LoginSuccessHandler.java,5\0\50c318cd7c7dbaf07c89ba746c2441ea029863f8
+I
+src/main/resources/db.sql,8\6\86c6db8ab865fa8d1e19348e399114ddb99d1bb9
